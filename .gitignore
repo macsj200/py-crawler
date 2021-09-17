@@ -1,0 +1,4 @@
+node_modules/
+settings.json
+settings-sandbox.json
+settings-prod.json
